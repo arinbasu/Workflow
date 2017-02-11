@@ -21,4 +21,4 @@ Yes it did work. Figure will work likewise. All other text elements will work li
 How about citations?
 
 Create folder bibliography and then within it biblio.bib and put in root folder
-Then populate the file with a reference from Google scholar, say the Git article by Karthik Ram and instead of using pandoc to process the citation, I add the cite command \cite{ram2013} and continue with it to process the html. 
+Then populate the file with a reference from Google scholar, say the Git article by Karthik Ram and instead of using pandoc to process the citation, I add the cite command \\cite{ram2013} and continue with it to process the html. 
